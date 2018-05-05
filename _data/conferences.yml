@@ -21,16 +21,6 @@
   place: "Palais des Congr\xE8s de Montr\xE9al, Montr\xE9al, Canada"
   sub: ML
 
-- name: EMNLP
-  year: 2018
-  id: emnlp18
-  link: http://emnlp2018.org
-  deadline: "2018-05-22 23:59:59"
-  timezone: America/Los_Angeles
-  date: November 2-4, 2018
-  place: Brussels, Belgium
-  sub: NLP
-
 - name: 3DV
   year: 2018
   id: threedv18
@@ -40,16 +30,6 @@
   date: September 5-8, 2018
   place: Verona, Italy
   sub: CV
-
-- name: CoNLL
-  year: 2018
-  id: conll18
-  link: http://www.conll.org/
-  deadline: "2018-06-01 23:59:59"
-  timezone: Etc/GMT-12
-  date: October 31 - November 1, 2018
-  place: Brussels, Belgium
-  sub: NLP
 
 - name: ICDM
   year: 2018
@@ -141,16 +121,6 @@
   place: Salt Lake City, Utah
   sub: CV
 
-- name: NAACL
-  year: 2018
-  id: naacl18
-  link: http://naacl2018.org/
-  deadline: "2017-12-15 23:59:59"
-  timezone: Etc/GMT+12
-  date: June 2-4, 2018
-  place: New Orleans, USA
-  sub: NLP
-
 - name: SIGGRAPH
   year: 2018
   id: siggraph18
@@ -241,26 +211,6 @@
   place: Munich, Germany
   sub: CV
 
-- name: COLING
-  year: 2018
-  id: coling18
-  link: http://coling2018.org/
-  deadline: "2018-03-16 23:59:59"
-  timezone: America/Adak
-  date: August 20-25, 2018
-  place: Santa Fe, New Mexico, USA
-  sub: NLP
-
-- name: Interspeech
-  year: 2018
-  id: interspeech18
-  link: http://interspeech2018.org/
-  deadline: "2018-03-23 23:59:59"
-  timezone: Etc/GMT
-  date: September 2-6, 2018
-  place: Hyderabad, India
-  sub: SP
-
 - name: SIBGRAPI
   year: 2018
   id: sibgrapi18
@@ -270,3 +220,24 @@
   date: October 29-November 25, 2018
   place: Foz do Iguaçu, Brazil
   sub: CV
+
+
+- name: FG
+  year: 2018
+  id: fg2018
+  link: https://fg2018.cse.sc.edu/
+  deadline: "2018-06-11 23:59:59"
+  timezone: PDT
+  date: May 15-19, 2018
+  place: Xi'an, China
+  sub: BIO 
+
+- name: ICB
+  year: 2019
+  id: icb2019
+  link: http://www.icb2019.org/
+  deadline: "2018-11-11 23:59:59"
+  timezone: PDT
+  date: June 2-5, 2019
+  place: Crete, Greece
+  sub: BIO
