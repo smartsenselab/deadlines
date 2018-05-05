@@ -11,4 +11,7 @@
   sub: SP
 - name: Graphics
   sub: GR
-
+- name: Biometrics
+  sub: BIO
+- name: Sensors
+  sub: SRS
