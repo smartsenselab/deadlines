@@ -1,14 +1,13 @@
-title: AI Conference Deadlines # (Maintained by @abhshkdz)
-# email: abhshkdz@vt.edu
-description: Countdowns to top CV/NLP/ML/Robotics/AI conference deadlines
-author: Abhishek Das
+title: Conference Deadlines # (Maintained by @SSIG. Original by @abshkdz)
+description: Countdowns to CV/ML/Biometrics/Sensor/AI conference deadlines
+author: SSIG (Original by Abhishek Das)
 
 domain: "ssig.github.io/"
 baseurl: "/ai-deadlines"
 
-twitter_username: abhshkdz
+twitter_username: ssig_ufmg
 twitter_hashtag: machinelearning
-github_username: abhshkdz
+github_username: ssig
 github_repo: ai-deadlines
 
 markdown: kramdown
