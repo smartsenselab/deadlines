@@ -11,6 +11,36 @@
   place: Newcastle upon Tyne
   sub: CV
 
+- name: SIBGRAPI
+  year: 2018
+  id: sibgrapi18
+  link: http://www.imago.ufpr.br/sibgrapi2018/index.php
+  deadline: "2018-06-11 23:59:59"
+  timezone: PDT
+  date: October 29-November 25, 2018
+  place: Foz do Iguaçu, Brazil
+  sub: CV
+
+- name: FG
+  year: 2018
+  id: fg2018
+  link: https://fg2018.cse.sc.edu/
+  deadline: "2018-06-11 23:59:59"
+  timezone: PDT
+  date: May 15-19, 2018
+  place: Xi'an, China
+  sub: BIO 
+
+- name: ICB
+  year: 2019
+  id: icb2019
+  link: http://www.icb2019.org/
+  deadline: "2018-11-11 23:59:59"
+  timezone: PDT
+  date: June 2-5, 2019
+  place: Crete, Greece
+  sub: BIO
+
 - name: NIPS
   year: 2018
   id: nips18
@@ -210,34 +240,3 @@
   date: September 8-14, 2018
   place: Munich, Germany
   sub: CV
-
-- name: SIBGRAPI
-  year: 2018
-  id: sibgrapi18
-  link: http://www.imago.ufpr.br/sibgrapi2018/index.php
-  deadline: "2018-06-11 23:59:59"
-  timezone: PDT
-  date: October 29-November 25, 2018
-  place: Foz do Iguaçu, Brazil
-  sub: CV
-
-
-- name: FG
-  year: 2018
-  id: fg2018
-  link: https://fg2018.cse.sc.edu/
-  deadline: "2018-06-11 23:59:59"
-  timezone: PDT
-  date: May 15-19, 2018
-  place: Xi'an, China
-  sub: BIO 
-
-- name: ICB
-  year: 2019
-  id: icb2019
-  link: http://www.icb2019.org/
-  deadline: "2018-11-11 23:59:59"
-  timezone: PDT
-  date: June 2-5, 2019
-  place: Crete, Greece
-  sub: BIO
