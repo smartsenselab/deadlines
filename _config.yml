@@ -1,9 +1,9 @@
 title: Conference Deadlines # (Maintained by @SSIG. Original by @abshkdz)
-description: Countdowns to CV/ML/Biometrics/Sensor/AI conference deadlines
+description: Countdowns to CV/ML/Biometrics/Sensor/AI conference deadlines.
 author: SSIG (Original by Abhishek Das)
 
 domain: "ssig.github.io/"
-baseurl: "/ai-deadlines"
+baseurl: "/deadlines"
 
 twitter_username: ssig_ufmg
 twitter_hashtag: machinelearning
