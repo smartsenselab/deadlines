@@ -8,7 +8,7 @@ baseurl: "/deadlines"
 twitter_username: ssig_ufmg
 twitter_hashtag: machinelearning
 github_username: ssig
-github_repo: ai-deadlines
+github_repo: deadlines
 
 markdown: kramdown
 ga_id: UA-36274081-2
