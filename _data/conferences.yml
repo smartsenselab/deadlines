@@ -16,7 +16,7 @@
   id: sibgrapi18
   link: http://www.imago.ufpr.br/sibgrapi2018/index.php
   deadline: "2018-06-11 23:59:59"
-  timezone: PDT
+  timezone: America/Los_Angeles
   date: October 29-November 25, 2018
   place: Foz do Iguaçu, Brazil
   sub: CV
@@ -26,7 +26,7 @@
   id: fg2018
   link: https://fg2018.cse.sc.edu/
   deadline: "2018-06-11 23:59:59"
-  timezone: PDT
+  timezone: America/Los_Angeles
   date: May 15-19, 2018
   place: Xi'an, China
   sub: BIO 
@@ -36,7 +36,7 @@
   id: icb2019
   link: http://www.icb2019.org/
   deadline: "2018-11-11 23:59:59"
-  timezone: PDT
+  timezone: America/Los_Angeles
   date: June 2-5, 2019
   place: Crete, Greece
   sub: BIO
