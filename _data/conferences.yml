@@ -1,26 +1,6 @@
 
 ---
 
-- name: NIPS
-  year: 2018
-  id: nips18
-  link: https://nips.cc/Conferences/2018
-  deadline: "2018-05-18 13:00:00"
-  timezone: America/Los_Angeles
-  date: December 3-8, 2018
-  place: "Palais des Congr\xE8s de Montr\xE9al, Montr\xE9al, Canada"
-  sub: ML
-
-- name: 3DV
-  year: 2018
-  id: threedv18
-  link: http://3dv18.uniud.it
-  deadline: "2018-05-25 23:59:59"
-  timezone: America/Los_Angeles
-  date: September 5-8, 2018
-  place: Verona, Italy
-  sub: CV
-  
 - name: AVSS
   year: 2018
   id: avss18
@@ -28,9 +8,9 @@
   deadline: "2018-06-01 23:59:59"
   timezone: America/Los_Angeles
   date: November 27-30, 2018
-  place: "Auckland, New Zealand"
+  place: Auckland, New Zealand
   sub: CV
-  
+
 - name: ICDM
   year: 2018
   id: icdm2018
@@ -50,16 +30,6 @@
   date: October 29-November 25, 2018
   place: "Foz do Igua\xE7u, Brazil"
   sub: CV
-
-- name: FG
-  year: 2018
-  id: fg2018
-  link: https://fg2018.cse.sc.edu/
-  deadline: "2018-06-11 23:59:59"
-  timezone: America/Los_Angeles
-  date: May 15-19, 2018
-  place: Xi"an, China
-  sub: BIO
 
 - name: CoRL
   year: 2018
@@ -100,6 +70,16 @@
   date: January 27 - February 1, 2019
   place: Hilton Hawaiian Village, Honolulu, Hawaii, USA
   sub: ML
+
+- name: FG
+  year: 2019
+  id: fg2019
+  link: https://fg2019.org/
+  deadline: "2018-09-21 23:59:59"
+  timezone: America/Los_Angeles
+  date: May 14-18, 2019
+  place: Lille, France
+  sub: BIO
 
 - name: ICB
   year: 2019
@@ -239,4 +219,34 @@
   timezone: America/Los_Angeles
   date: September 03-06, 2018
   place: Newcastle upon Tyne
+  sub: CV
+
+- name: NIPS
+  year: 2018
+  id: nips18
+  link: https://nips.cc/Conferences/2018
+  deadline: "2018-05-18 13:00:00"
+  timezone: America/Los_Angeles
+  date: December 3-8, 2018
+  place: "Palais des Congr\xE8s de Montr\xE9al, Montr\xE9al, Canada"
+  sub: ML
+
+- name: ICDSC
+  year: 2018
+  id: icdsc2018
+  link: https://icdsc.org/
+  deadline: "2018-05-18 23:59:59"
+  timezone: America/Los_Angeles
+  date: September 3-6, 2018
+  place: High Tech Campus Eindhoven, Netherlands
+  sub: CV
+
+- name: 3DV
+  year: 2018
+  id: threedv18
+  link: http://3dv18.uniud.it
+  deadline: "2018-05-25 23:59:59"
+  timezone: America/Los_Angeles
+  date: September 5-8, 2018
+  place: Verona, Italy
   sub: CV
