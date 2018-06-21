@@ -81,6 +81,16 @@
   place: Lille, France
   sub: BIO
 
+- name: VISAPP
+  year: 2019
+  id: visapp19
+  link: http://www.visapp.visigrapp.org/
+  deadline: "2018-10-01 23:59:59"
+  timezone: America/Los_Angeles
+  date: Februrary 25-27, 2019
+  place: Prague, Czech Republic
+  sub: CV
+
 - name: ICB
   year: 2019
   id: icb2019
