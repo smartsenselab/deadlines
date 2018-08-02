@@ -1,56 +1,6 @@
 
 ---
 
-- name: ICDM
-  year: 2018
-  id: icdm2018
-  link: http://icdm2018.org/
-  deadline: "2018-06-05 23:59:59"
-  timezone: Etc/GMT-7
-  date: November 17-20, 2018
-  place: Singapore
-  sub: ML
-
-- name: AVSS
-  year: 2018
-  id: avss18
-  link: https://avss2018.org/
-  deadline: "2018-06-30 23:59:59"
-  timezone: America/Los_Angeles
-  date: November 27-30, 2018
-  place: Auckland, New Zealand
-  sub: CV
-
-- name: CoRL
-  year: 2018
-  id: corl2018
-  link: http://www.robot-learning.org/
-  deadline: "2018-06-15 23:59:59"
-  timezone: America/Los_Angeles
-  date: October 29-31, 2018
-  place: Zurich, Switzerland
-  sub: RO
-
-- name: WACV
-  year: 2019
-  id: wacv19
-  link: http://wacv19.uccs.us/
-  deadline: "2018-07-03 23:59:59"
-  timezone: America/Los_Angeles
-  date: January 8-11, 2019
-  place: Waikoloa Village, Hawaii
-  sub: CV
-
-- name: ACCV
-  year: 2018
-  id: accv18
-  link: http://accv2018.net/
-  deadline: "2018-07-05 23:59:59"
-  timezone: America/Los_Angeles
-  date: December 2-6, 2018
-  place: Perth, Western Australia
-  sub: CV
-
 - name: AAAI
   year: 2019
   id: aaai19
@@ -259,4 +209,54 @@
   timezone: America/Los_Angeles
   date: October 29-November 25, 2018
   place: "Foz do Igua\xE7u, Brazil"
+  sub: CV
+
+- name: ICDM
+  year: 2018
+  id: icdm2018
+  link: http://icdm2018.org/
+  deadline: "2018-06-05 23:59:59"
+  timezone: Etc/GMT-7
+  date: November 17-20, 2018
+  place: Singapore
+  sub: ML
+
+- name: AVSS
+  year: 2018
+  id: avss18
+  link: https://avss2018.org/
+  deadline: "2018-06-30 23:59:59"
+  timezone: America/Los_Angeles
+  date: November 27-30, 2018
+  place: Auckland, New Zealand
+  sub: CV
+
+- name: CoRL
+  year: 2018
+  id: corl2018
+  link: http://www.robot-learning.org/
+  deadline: "2018-06-15 23:59:59"
+  timezone: America/Los_Angeles
+  date: October 29-31, 2018
+  place: Zurich, Switzerland
+  sub: RO
+
+- name: WACV
+  year: 2019
+  id: wacv19
+  link: http://wacv19.uccs.us/
+  deadline: "2018-07-03 23:59:59"
+  timezone: America/Los_Angeles
+  date: January 8-11, 2019
+  place: Waikoloa Village, Hawaii
+  sub: CV
+
+- name: ACCV
+  year: 2018
+  id: accv18
+  link: http://accv2018.net/
+  deadline: "2018-07-05 23:59:59"
+  timezone: America/Los_Angeles
+  date: December 2-6, 2018
+  place: Perth, Western Australia
   sub: CV
