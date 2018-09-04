@@ -11,6 +11,16 @@
   place: Hilton Hawaiian Village, Honolulu, Hawaii, USA
   sub: ML
 
+- name: ISBA
+  year: 2019
+  id: isba2019
+  link: http://www.idrbt.ac.in/ISBA/
+  deadline: "2018-09-15 23:59:59"
+  timezone: America/Los_Angeles
+  date: January 22-24, 2019
+  place: Hyderabad, India
+  sub: BIO
+
 - name: FG
   year: 2019
   id: fg2019
@@ -31,16 +41,6 @@
   place: Prague, Czech Republic
   sub: CV
 
-- name: ICB
-  year: 2019
-  id: icb2019
-  link: http://www.icb2019.org/
-  deadline: "2018-12-15 23:59:59"
-  timezone: America/Los_Angeles
-  date: June 2-5, 2019
-  place: Crete, Greece
-  sub: BIO
-
 - name: CVPR
   year: 2019
   id: cvpr19
@@ -50,6 +50,16 @@
   date: June 15-21, 2019
   place: Long Beach, CA
   sub: CV
+
+- name: ICB
+  year: 2019
+  id: icb2019
+  link: http://www.icb2019.org/
+  deadline: "2018-12-15 23:59:59"
+  timezone: America/Los_Angeles
+  date: June 2-5, 2019
+  place: Crete, Greece
+  sub: BIO
 
 - name: ICRA
   year: 2018
