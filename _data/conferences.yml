@@ -61,6 +61,36 @@
   place: Crete, Greece
   sub: BIO
 
+- name: IJCNN
+  year: 2019
+  id: ijcnn2019
+  link: https://www.ijcnn.org/
+  deadline: "2018-12-15 13:59:59"
+  timezone: America/Los_Angeles
+  date: July 14-19, 2019
+  place: Budapest, Hungary
+  sub: ML
+
+- name: ICIP
+  year: 2019
+  id: icip19
+  link: http://2019.ieeeicip.org/
+  deadline: "2019-01-31 23:59:59"
+  timezone: America/Los_Angeles
+  date: September 22-25, 2019
+  place: Taipei, Taiwan
+  sub: CV
+
+- name: EUSIPCO
+  year: 2019
+  id: eusipco19
+  link: http://eusipco2019.org/
+  deadline: "2019-02-18 23:59:59"
+  timezone: America/Los_Angeles
+  date: September 02-06, 2019
+  place: A Coruña, Spain
+  sub: SRS
+
 - name: ICRA
   year: 2018
   id: icra18
