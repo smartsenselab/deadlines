@@ -1,26 +1,6 @@
 
 ---
 
-- name: AAAI
-  year: 2019
-  id: aaai19
-  link: https://aaai.org/Conferences/AAAI-19/
-  deadline: "2018-09-05 23:59:59"
-  timezone: Etc/GMT+10
-  date: January 27 - February 1, 2019
-  place: Hilton Hawaiian Village, Honolulu, Hawaii, USA
-  sub: ML
-
-- name: ISBA
-  year: 2019
-  id: isba2019
-  link: http://www.idrbt.ac.in/ISBA/
-  deadline: "2018-09-15 23:59:59"
-  timezone: America/Los_Angeles
-  date: January 22-24, 2019
-  place: Hyderabad, India
-  sub: BIO
-
 - name: FG
   year: 2019
   id: fg2019
@@ -39,6 +19,16 @@
   timezone: America/Los_Angeles
   date: Februrary 25-27, 2019
   place: Prague, Czech Republic
+  sub: CV
+  
+- name: ICASSP
+  year: 2019
+  id: icassp2019
+  link: https://2019.ieeeicassp.org/
+  deadline: "2018-10-29 23:59:59"
+  timezone: America/Los_Angeles
+  date: May 12-17, 2019
+  place: Brighton, UK
   sub: CV
 
 - name: CVPR
@@ -270,3 +260,24 @@
   date: December 2-6, 2018
   place: Perth, Western Australia
   sub: CV
+  
+  - name: AAAI
+  year: 2019
+  id: aaai19
+  link: https://aaai.org/Conferences/AAAI-19/
+  deadline: "2018-09-05 23:59:59"
+  timezone: Etc/GMT+10
+  date: January 27 - February 1, 2019
+  place: Hilton Hawaiian Village, Honolulu, Hawaii, USA
+  sub: ML
+
+- name: ISBA
+  year: 2019
+  id: isba2019
+  link: http://www.idrbt.ac.in/ISBA/
+  deadline: "2018-09-15 23:59:59"
+  timezone: America/Los_Angeles
+  date: January 22-24, 2019
+  place: Hyderabad, India
+  sub: BIO
+
