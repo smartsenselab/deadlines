@@ -21,16 +21,6 @@
   place: Prague, Czech Republic
   sub: CV
 
-- name: ICASSP
-  year: 2019
-  id: icassp2019
-  link: https://2019.ieeeicassp.org/
-  deadline: "2018-10-29 23:59:59"
-  timezone: America/Los_Angeles
-  date: May 12-17, 2019
-  place: Brighton, UK
-  sub: CV
-
 - name: CVPR
   year: 2019
   id: cvpr19
