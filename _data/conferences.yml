@@ -1,46 +1,6 @@
 
 ---
 
-- name: FG
-  year: 2019
-  id: fg2019
-  link: https://fg2019.org/
-  deadline: "2018-09-21 23:59:59"
-  timezone: America/Los_Angeles
-  date: May 14-18, 2019
-  place: Lille, France
-  sub: BIO
-
-- name: VISAPP
-  year: 2019
-  id: visapp19
-  link: http://www.visapp.visigrapp.org/
-  deadline: "2018-10-01 23:59:59"
-  timezone: America/Los_Angeles
-  date: Februrary 25-27, 2019
-  place: Prague, Czech Republic
-  sub: CV
-
-- name: ICLR
-  year: 2019
-  id: iclr2019
-  link: https://iclr.cc/
-  deadline: "2018-10-27 13:59:59"
-  timezone: America/Los_Angeles
-  date: May 06-09, 2019
-  place: New Orleans, USA
-  sub: ML
-
-- name: ICASSP
-  year: 2019
-  id: icassp2019
-  link: https://2019.ieeeicassp.org/
-  deadline: "2018-10-29 23:59:59"
-  timezone: America/Los_Angeles
-  date: May 12-17, 2019
-  place: Brighton, UK
-  sub: CV
-
 - name: CVPR
   year: 2019
   id: cvpr19
@@ -321,3 +281,42 @@
   place: Hyderabad, India
   sub: BIO
 
+- name: FG
+  year: 2019
+  id: fg2019
+  link: https://fg2019.org/
+  deadline: "2018-09-21 23:59:59"
+  timezone: America/Los_Angeles
+  date: May 14-18, 2019
+  place: Lille, France
+  sub: BIO
+
+- name: VISAPP
+  year: 2019
+  id: visapp19
+  link: http://www.visapp.visigrapp.org/
+  deadline: "2018-10-01 23:59:59"
+  timezone: America/Los_Angeles
+  date: Februrary 25-27, 2019
+  place: Prague, Czech Republic
+  sub: CV
+
+- name: ICLR
+  year: 2019
+  id: iclr2019
+  link: https://iclr.cc/
+  deadline: "2018-10-27 13:59:59"
+  timezone: America/Los_Angeles
+  date: May 06-09, 2019
+  place: New Orleans, USA
+  sub: ML
+
+- name: ICASSP
+  year: 2019
+  id: icassp2019
+  link: https://2019.ieeeicassp.org/
+  deadline: "2018-10-29 23:59:59"
+  timezone: America/Los_Angeles
+  date: May 12-17, 2019
+  place: Brighton, UK
+  sub: CV
