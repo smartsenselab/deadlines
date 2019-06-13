@@ -21,6 +21,16 @@
   place: "Delft, The Netherlands"
   sub: BIO
 
+- name: WACV
+  year: 2020
+  id: wacv20
+  link: http://wacv20.wacv.net/
+  deadline: "2019-07-26 23:59:59"
+  timezone: America/Los_Angeles
+  date: March 2-5, 2020
+  place: Snowmass village, Colorado, USA. 
+  sub: CV
+
 - name: CVPR
   year: 2019
   id: cvpr19
@@ -250,16 +260,6 @@
   date: October 29-31, 2018
   place: Zurich, Switzerland
   sub: RO
-
-- name: WACV
-  year: 2019
-  id: wacv19
-  link: http://wacv19.uccs.us/
-  deadline: "2018-07-03 23:59:59"
-  timezone: America/Los_Angeles
-  date: January 8-11, 2019
-  place: Waikoloa Village, Hawaii
-  sub: CV
 
 - name: ACCV
   year: 2018
