@@ -1,6 +1,26 @@
 
 ---
 
+- name: SIBGRAPI
+  year: 2019
+  id: sibgrapi19
+  link: http://www.mat.puc-rio.br/sibgrapi2019/
+  deadline: "2019-06-20 23:59:59"
+  timezone: America/Los_Angeles
+  date: October 28-31, 2019
+  place: "Rio de Janeiro, Brazil"
+  sub: CV
+
+- name: WIFS
+  year: 2019
+  id: wifs2019
+  link: https://wifs2019.tudelft.nl/?q=node/3
+  deadline: "2019-06-30 23:59:59"
+  timezone: America/Los_Angeles
+  date: December 9-12, 2019
+  place: "Delft, The Netherlands"
+  sub: BIO
+
 - name: CVPR
   year: 2019
   id: cvpr19
@@ -199,16 +219,6 @@
   timezone: America/Los_Angeles
   date: September 5-8, 2018
   place: Verona, Italy
-  sub: CV
-  
-- name: SIBGRAPI
-  year: 2018
-  id: sibgrapi18
-  link: http://www.imago.ufpr.br/sibgrapi2018/index.php
-  deadline: "2018-06-18 23:59:59"
-  timezone: America/Los_Angeles
-  date: October 29-November 25, 2018
-  place: "Foz do Igua\xE7u, Brazil"
   sub: CV
 
 - name: ICDM
