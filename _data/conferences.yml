@@ -1,6 +1,16 @@
 
 ---
 
+- name: ICASSP
+  year: 2020
+  id: icassp2020
+  link: https://2020.ieeeicassp.org
+  deadline: "2019-10-21 23:59:59"
+  timezone: America/Los_Angeles
+  date: May 4-8, 2020
+  place: "Barcelona, Spain"
+  sub: ML
+
 - name: SIBGRAPI
   year: 2019
   id: sibgrapi19
@@ -320,13 +330,3 @@
   date: May 06-09, 2019
   place: New Orleans, USA
   sub: ML
-
-- name: ICASSP
-  year: 2019
-  id: icassp2019
-  link: https://2019.ieeeicassp.org/
-  deadline: "2018-10-29 23:59:59"
-  timezone: America/Los_Angeles
-  date: May 12-17, 2019
-  place: Brighton, UK
-  sub: CV
