@@ -1,6 +1,16 @@
 
 ---
 
+- name: IJCB
+  year: 2020
+  id: ijcb2020
+  link: https://ieee-biometrics.org/ijcb2020
+  deadline: "2019-12-09 23:59:59"
+  timezone: America/Los_Angeles
+  date: September 27-30, 2020
+  place: "Houston, USA"
+  sub: BIO
+
 - name: ICASSP
   year: 2020
   id: icassp2020
